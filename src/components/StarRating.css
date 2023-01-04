@@ -1,0 +1,11 @@
+.StarRating {
+    font-size: 5rem;
+    cursor: pointer;
+  }
+  
+  .active {
+    color: yellow;
+  }
+  .blank {
+    color: grey;
+  }
